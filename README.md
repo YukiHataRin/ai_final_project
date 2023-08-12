@@ -1,0 +1,2 @@
+# gif_generator
+可生成gif，目前為測試版本，有sliding_window動畫與fade_out動畫
